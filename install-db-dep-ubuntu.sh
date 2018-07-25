@@ -1,2 +1,2 @@
-sudo apt install mysql-server mysql-client -y
-sudo apt install default-libmysqlclient-dev -y
+sudo apt install mysql-server mysql-client
+sudo apt install default-libmysqlclient-dev
