@@ -41,4 +41,3 @@ $`sh install-nodejs.sh`
 $`npm install -g @angular/cli`
 
 ```
-## Done Application is ready
